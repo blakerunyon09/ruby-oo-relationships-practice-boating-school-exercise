@@ -1,3 +1,3 @@
 class Instructor
-
+    
 end
