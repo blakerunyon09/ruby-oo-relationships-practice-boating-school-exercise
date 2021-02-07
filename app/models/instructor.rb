@@ -39,6 +39,4 @@ class Instructor
         end
     end
 
-    
-
 end
